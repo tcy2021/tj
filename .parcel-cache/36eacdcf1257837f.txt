@@ -1,0 +1,8 @@
+7
+29C:\Users\tcy\Desktop\cv-1\src132740278583508052 1
+30C:\Users\tcy\Desktop\cv-1\dist132740396939023255 1
+41C:\Users\tcy\Desktop\cv-1\dist\index.html132740371934999339 0
+52C:\Users\tcy\Desktop\cv-1\dist\index.fef1cfaf.js.map132740396939013287 0
+40C:\Users\tcy\Desktop\cv-1\src\index.html132740365631646019 0
+37C:\Users\tcy\Desktop\cv-1\src\main.js132740396937714714 0
+48C:\Users\tcy\Desktop\cv-1\dist\index.fef1cfaf.js132740396938993342 0

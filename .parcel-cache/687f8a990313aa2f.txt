@@ -1,0 +1,16 @@
+15
+36C:\Users\tcy\Desktop\cv-1\.gitignore132741221270460000 0
+29C:\Users\tcy\Desktop\cv-1\src132741247362966592 1
+39C:\Users\tcy\Desktop\cv-1\src\style.css132741247624732644 0
+49C:\Users\tcy\Desktop\cv-1\dist\index.d6ad60c1.css132741249434485601 0
+30C:\Users\tcy\Desktop\cv-1\dist132741249434520708 1
+40C:\Users\tcy\Desktop\cv-1\src\index.html132741247930355369 0
+37C:\Users\tcy\Desktop\cv-1\src\main.js132741219056874722 0
+53C:\Users\tcy\Desktop\cv-1\dist\index.5952072d.css.map132741248042313320 0
+49C:\Users\tcy\Desktop\cv-1\dist\index.5952072d.css132741248042276809 0
+48C:\Users\tcy\Desktop\cv-1\dist\index.856a2ed8.js132741242392159188 0
+52C:\Users\tcy\Desktop\cv-1\dist\index.856a2ed8.js.map132741242392194064 0
+53C:\Users\tcy\Desktop\cv-1\dist\index.d6ad60c1.css.map132741249434510686 0
+48C:\Users\tcy\Desktop\cv-1\dist\index.fef1cfaf.js132741248042276809 0
+52C:\Users\tcy\Desktop\cv-1\dist\index.fef1cfaf.js.map132741248042313320 0
+41C:\Users\tcy\Desktop\cv-1\dist\index.html132741249434485601 0
